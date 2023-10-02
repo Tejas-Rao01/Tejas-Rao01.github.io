@@ -1,4 +1,4 @@
-title: "Tejas Portfolio2"
+title: "Tejas Portfolio"
 author: "Tejas Rao"
 description: "Indian Institute of Science, Bangalore"
 permalink: /:title/
@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home Change", icon: home }
-  # - {file: "TejasRao_Resume.pdf", title: "CV"}
+  - {file: "TejasRao_Resume.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rao.tejas01@gmail.com"}
